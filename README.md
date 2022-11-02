@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **platzi.com/ds/**
 
-- 🛠 I’m looking to collaborate on [Reporte de Copa KC Setiembre 2022](https://deepnote.com/@luceldasilva/Reporte-de-Copa-KC-Setiembre-2022-e184ed31-97fe-4792-83e5-af0178a1e2d8)
+- 🛠 I’m looking to collaborate on [Reporte de Copa KC Setiembre 2022](https://deepnote.com/@luceldasilva/Reporte-de-Copa-KC-Setiembre-2022-e184ed31-97fe-4792-83e5-af0178a1e2d8/)
 
-- 🤝 I’m looking for help with [organized-space](github.com/Naren-7/organized-space)
+- 🤝 I’m looking for help with [organized-space](https://github.com/Naren-7/organized-space/)
 
-- 💼 All of my projects are available at [naren-7.github.io](naren-7.github.io/)
+- 💼 All of my projects are available at [naren-7.github.io](https://naren-7.github.io/)
 
-- 📝 I occasions write articles on [https://medium.com/@jonznaren/about](medium.com/@jonznaren/about/)
+- 📝 I occasions write articles on [https://medium.com/@jonznaren/about](https://medium.com/@jonznaren/about/)
 
 - 💬 Ask me about **Data Science**
 
