@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Naren Fragozo</h1>
 <h3 align="center">A programmer from Colombia who likes challenges.</h3>
-<img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47p4qb9xz75tht9kxwocnjcvtfp180dkqr7xc5x6oh&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="500" src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47p4qb9xz75tht9kxwocnjcvtfp180dkqr7xc5x6oh&rid=giphy.gif&ct=g">
+
+###   
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naren-7&label=Profile%20views&color=0e75b6&style=flat" alt="naren-7" /> </p>
+<p align="lefth"> <img src="https://komarev.com/ghpvc/?username=naren-7&label=Profile%20views&color=0e75b6&style=flat" alt="naren-7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/naren_fragozo" target="blank"><img src="https://img.shields.io/twitter/follow/naren_fragozo?logo=twitter&style=for-the-badge" alt="naren_fragozo" /></a> </p>
+<p align="lefth"> <a href="https://twitter.com/naren_fragozo" target="blank"><img src="https://img.shields.io/twitter/follow/naren_fragozo?logo=twitter&style=for-the-badge" alt="naren_fragozo" /></a> </p>
 
 
 - 🛠 I’m looking to collaborate on [Reporte de Copa KC Setiembre 2022](https://deepnote.com/@luceldasilva/Reporte-de-Copa-KC-Setiembre-2022-e184ed31-97fe-4792-83e5-af0178a1e2d8/)
@@ -19,7 +21,7 @@
 
 - 📫 How to reach me [email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjQwPxGdGZPdxmWCpfJbCVDKlDfGJjSPMcrdKdvnCvNzJFsvfNPnCNMltGfgJkLGfqsV)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact [**I think i am funny**](https://www.youtube.com/watch?v=t0DeJ5HeG8o&list=RDRF0HhrwIwp0&index=39)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
