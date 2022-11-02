@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/naren_fragozo" target="blank"><img src="https://img.shields.io/twitter/follow/naren_fragozo?logo=twitter&style=for-the-badge" alt="naren_fragozo" /></a> </p>
 
-- 🌱 I’m currently learning **platzi.com/ds/**
 
 - 🛠 I’m looking to collaborate on [Reporte de Copa KC Setiembre 2022](https://deepnote.com/@luceldasilva/Reporte-de-Copa-KC-Setiembre-2022-e184ed31-97fe-4792-83e5-af0178a1e2d8/)
 
@@ -16,11 +15,9 @@
 
 - 💼  __**All of my projects are available**__ at [naren-7.github.io](https://naren-7.github.io/)
 
-- 📝 I occasions write articles on [https://medium.com/@jonznaren/about](https://medium.com/@jonznaren/about/)
+- 📝 I occasions write articles on [Medium](https://medium.com/@jonznaren/about/)
 
-- 💬 Ask me about **Data Science**
-
-- 📫 How to reach me **Jonznaren@gmail.com**
+- 📫 How to reach me [email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjQwPxGdGZPdxmWCpfJbCVDKlDfGJjSPMcrdKdvnCvNzJFsvfNPnCNMltGfgJkLGfqsV)
 
 - ⚡ Fun fact **I think i am funny**
 
