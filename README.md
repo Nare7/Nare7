@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Naren Fragozo</h1>
 <h3 align="center">A programmer from Colombia who likes challenges.</h3>
-<img align="right" alt="coding" width="500" src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47p4qb9xz75tht9kxwocnjcvtfp180dkqr7xc5x6oh&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e47p4qb9xz75tht9kxwocnjcvtfp180dkqr7xc5x6oh&rid=giphy.gif&ct=g">
 
 ###   
 
