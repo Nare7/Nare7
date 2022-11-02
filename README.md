@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [organized-space](https://github.com/Naren-7/organized-space/)
 
-- 💼 All of my projects are available at [naren-7.github.io](https://naren-7.github.io/)
+- 💼  **All of my projects are available** at [naren-7.github.io](https://naren-7.github.io/)
 
 - 📝 I occasions write articles on [https://medium.com/@jonznaren/about](https://medium.com/@jonznaren/about/)
 
