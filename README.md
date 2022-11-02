@@ -26,11 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/naren_fragozo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/naren_fragozo/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naren-fragozo-5a7b7a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naren-fragozo-5a7b7a202/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/narenyesith3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/narenyesith3/" height="30" width="40" /></a>
+<a href="https://twitter.com/naren_fragozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naren_fragozo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naren-fragozo-5a7b7a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naren-fragozo-5a7b7a202/" height="30" width="40" /></a>
+<a href="https://kaggle.com/narenyesith3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="narenyesith3" height="30" width="40" /></a>
 <a href="https://instagram.com/naren_7f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naren_7f" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@jonznaren/about/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@jonznaren/about/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
