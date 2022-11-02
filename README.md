@@ -21,7 +21,7 @@
 
 - 📫 How to reach me [email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjQwPxGdGZPdxmWCpfJbCVDKlDfGJjSPMcrdKdvnCvNzJFsvfNPnCNMltGfgJkLGfqsV)
 
-- ⚡ Fun fact [**I think i am funny**](https://www.youtube.com/watch?v=t0DeJ5HeG8o&list=RDRF0HhrwIwp0&index=39)
+- ⚡ Fun fact [**I think i am funny**](https://www.youtube.com/watch?v=sDMxQF18yvA&list=RDRF0HhrwIwp0&index=27)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
