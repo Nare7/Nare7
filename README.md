@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [organized-space](https://github.com/Naren-7/organized-space/)
 
-- 💼  __**All of my projects are available**__ at [naren-7.github.io](https://naren-7.github.io/)
+- 💼  __**All of my projects are available**__ at [**Portafolio**](https://naren-7.github.io/)
 
 - 📝 I occasions write articles on [Medium](https://medium.com/@jonznaren/about/)
 
