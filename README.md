@@ -5,12 +5,6 @@
 
 ###   
 
-
-<p align="lefth"> <img src="https://komarev.com/ghpvc/?username=naren-7&label=Profile%20views&color=0e75b6&style=flat" alt="naren-7" /> </p>
-
-<p align="lefth"> <a href="https://twitter.com/naren_fragozo" target="blank"><img src="https://img.shields.io/twitter/follow/naren_fragozo?logo=twitter&style=for-the-badge" alt="naren_fragozo" /></a> </p>
-
-
 - 🛠 I’m looking to collaborate on [Reporte de Copa KC Setiembre 2022](https://deepnote.com/@luceldasilva/Reporte-de-Copa-KC-Setiembre-2022-e184ed31-97fe-4792-83e5-af0178a1e2d8/)
 
 - 🤝 I’m looking for help with [organized-space](https://github.com/Naren-7/organized-space/)
