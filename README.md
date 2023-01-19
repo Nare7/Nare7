@@ -11,7 +11,7 @@
 
 - 💼  All of my projects are available at [**Portafolio**](https://naren-7.github.io/)
 
-- 📝 I occasions write articles on [**Medium**](https://medium.com/@jonznaren/about/)
+- 📝 I occasions write articles on [**Medium**](https://medium.com/@jonznaren)
 
 - 📫 How to reach me [**email**](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZbjQwPxGdGZPdxmWCpfJbCVDKlDfGJjSPMcrdKdvnCvNzJFsvfNPnCNMltGfgJkLGfqsV)
 
