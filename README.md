@@ -14,11 +14,11 @@
 <br>
 
 
-- 💼  All of my projects are available at [**Portafolio**](https://linktr.ee/naren_7)
+- 💼  All of my projects are available at [**Portafolio**](https://www.linkedin.com/in/narenfragozo7/)
 
 - 📝 I occasions write articles on [**Medium**](https://medium.com/@jonznaren)
 
-- 📫 How to reach me [**email**]()
+- 📫 How to reach me [**email**](https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSGLdXkDQLxBdHcXGrhQWqVXXnqTfjXHkqfTSWWtXwPbnHZPcjXTJJbvncFtxKJQGcTCKrpr)
 
 
 
