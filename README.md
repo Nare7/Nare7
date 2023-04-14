@@ -14,7 +14,7 @@
 <br>
 
 
-- 💼  All of my projects are available at [**Portafolio**](https://www.linkedin.com/in/narenfragozo7/)
+- 💼  All of my projects are available at [**Portafolio**](https://naren-7.github.io/)
 
 - 📝 I occasions write articles on [**Medium**](https://medium.com/@jonznaren)
 
