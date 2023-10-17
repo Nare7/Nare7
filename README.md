@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Naren Fragozo!</h1>
+<h1 align="center" href="https://www.linkedin.com/in/narenfragozo7/" >Hello 👋, I'm Naren Fragozo!</h1>
 <p align="center">Colombian data analyst interested in challenges.</p>
 
 
