@@ -10,6 +10,7 @@
 
 ## 🛠 I collaborated in the following projects:
 - [**Claro CellPhone**](https://github.com/Naren-7/ProyectosPowerBI/blob/main/Claro-CellPhone/README.md)
+- [**Netflix**](https://github.com/Naren-7/Netflix)
 - [**Reporte de Copa KC Setiembre 2022**](https://deepnote.com/@luceldasilva/Reporte-de-Copa-KC-Setiembre-2022-e184ed31-97fe-4792-83e5-af0178a1e2d8/)
 
 <br>
