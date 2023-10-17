@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋, soy Naren Fragozo!</h1>
-<h4 align="center">Analysta de datos colombiano amante de los desafíos.</h4>
+<h4 align="center">Analysta de datos colombiano interesado en los desafíos.</h4>
 
 
 
