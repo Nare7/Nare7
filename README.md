@@ -15,6 +15,5 @@
   <a href="https://platzi.com/p/naren-7/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://public.tableau.com/app/profile/naren.fragozo"><img src="https://img.shields.io/badge/Tableau%20Public-orange.svg?&style=for-the-badge&logo=tableau&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://naren-7.github.io/"><img src="https://img.shields.io/badge/Página%20Web-4AA94E.svg?&style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/naren_fragozo"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://medium.com/@jonznaren"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
